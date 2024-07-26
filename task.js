@@ -1,5 +1,5 @@
 // Установите начальное количество секунд
-let totalSeconds = 59; // Пример: 59 секунд
+let totalSeconds = 59;
 
 // Функция для форматирования времени в формат mm:ss
 function formatTime(seconds) {
